@@ -45,10 +45,6 @@ To run this project locally, follow these steps:
 
 ![image](https://github.com/atharvnaik07/Arithmetic_calculator/assets/114814921/f7a21c41-d331-4a33-96c8-169c32ec17b2)
 
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the [GitHub repository](https://github.com/atharvnaik07/arithmetic-calculator).
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
