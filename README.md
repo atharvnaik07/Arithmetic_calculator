@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/atharvnaik07/Arithmetic_calculator/blob/main/LICENSE).
 
 ## Acknowledgements
 
