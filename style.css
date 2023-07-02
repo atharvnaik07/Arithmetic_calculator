@@ -1,0 +1,38 @@
+#calculator {
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+    background-color: black;
+  }
+  .heading{
+    text-align: center;
+    font-size: xx-large;
+    color: #fff;
+  }
+  
+  input[type="text"], button {
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  #operations button {
+    width: 40px;
+  }
+  
+  #result {
+    font-weight: bold;
+    margin-top: 10px;
+    color: #fff;
+    background-color: black;
+  }
+  body{
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    height: 700px;
+
+  }
